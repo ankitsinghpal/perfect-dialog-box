@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="perfect.mr.perfectcollapsingtoolbar">
+
+    <application>
+        <activity
+            android:name=".CollapsingToolbar"
+            android:label="@string/title_activity_collapsing_toolbar"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
